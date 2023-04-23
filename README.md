@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anastasiya Ternovski</h1>
 <h3 align="center">A passionate full stack developer from Israel</h3>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Angular.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NastyaTernovski](https://github.com/NastyaTernovski)
 
